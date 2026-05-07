@@ -3,3 +3,5 @@ MLPG2/
 
 # Model
 src/model.pkl
+
+__pycache__/
