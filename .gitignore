@@ -1,2 +1,5 @@
 # Environments
 MLPG2/
+
+# Model
+src/model.pkl
